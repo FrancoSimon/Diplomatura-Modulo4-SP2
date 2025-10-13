@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Termas de Fiambalá",
+    "descripcion": "Aguas termales naturales en un entorno montañoso con piletones de piedra.",
+    "imagen": "src/assets/imgDestinos/termas.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Dunas de Tatón",
+    "descripcion": "Un mar de arena ideal para practicar sandboard y disfrutar vistas espectaculares.",
+    "imagen": "src/assets/imgDestinos/duna-taton.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Dunas Mágicas de Saujil",
+    "descripcion": "Paisajes únicos donde el desierto se mezcla con los tonos del atardecer.",
+    "imagen": "src/assets/imgDestinos/dunas-magicas.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Ruta de los Seismiles",
+    "descripcion": "Una de las rutas más altas del mundo, rodeada de volcanes imponentes.",
+    "imagen": "src/assets/imgDestinos/seismiles.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Ruta del Adobe",
+    "descripcion": "Circuito turístico que recorre iglesias y construcciones históricas hechas de adobe.",
+    "imagen": "src/assets/imgDestinos/ruta-adobe.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Laguna Cortadera",
+    "descripcion": "Hermosa laguna altiplánica rodeada de montañas y fauna silvestre.",
+    "imagen": "src/assets/imgDestinos/laguna-cortadera.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Cañón del Indio",
+    "descripcion": "Formación rocosa con pinturas rupestres y vistas panorámicas.",
+    "imagen": "src/assets/imgDestinos/canion-indio.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Balcón del Pissis",
+    "descripcion": "Mirador natural con vista al volcán Pissis, el segundo más alto del mundo.",
+    "imagen": "src/assets/imgDestinos/balcon-pissis.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Balneario Saujil",
+    "descripcion": "Espacio recreativo con pileta, sombra y río, ideal para disfrutar en familia.",
+    "imagen": "src/assets/imgDestinos/balneario-saujil.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Iglesia de San Pedro",
+    "descripcion": "Construcción colonial ubicada en el centro de Fiambalá, patrimonio histórico.",
+    "imagen": "src/assets/imgDestinos/iglesia-sanpedro.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Comandancia de Armas",
+    "descripcion": "Edificio histórico que muestra la arquitectura y la historia local.",
+    "imagen": "src/assets/imgDestinos/comandancia.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Museo Arqueológico Palo Blanco",
+    "descripcion": "Museo con piezas precolombinas de la cultura Palo Blanco y otras de la región.",
+    "imagen": "src/assets/imgDestinos/museo-palo-blanco.png"
+  },
+  {
+    "id": 13,
+    "nombre": "Bodega 12 Pueblos",
+    "descripcion": "Bodega local donde se elaboran vinos artesanales con uvas del valle de Fiambalá.",
+    "imagen": "src/assets/imgDestinos/bodega-12pueblos.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Ruta de la Fe",
+    "descripcion": "Camino turístico que une templos y santuarios religiosos de la región.",
+    "imagen": "src/assets/imgDestinos/ruta-fe.png"
+  },
+  {
+    "id": 15,
+    "nombre": "Museo del Hombre",
+    "descripcion": "Espacio que resguarda piezas arqueológicas y antropológicas de Fiambalá.",
+    "imagen": "src/assets/imgDestinos/museo-hombre.png"
+  }
+]
