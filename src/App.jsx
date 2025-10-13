@@ -27,20 +27,3 @@ function App() {
 }
 
 export default App;
-{
-  /*
-<div>
-      <div className="flex flex-col min-h-screen">
-        <Header onOpenModal={() => setIsModalOpen(true)} />
-        <Home addToWatchlist={addToWatchlist} />
-        <FavoritosModal
-          isOpen={isModalOpen}
-          onClose={() => setIsModalOpen(false)}
-          watchlist={watchlist}
-          removeFromWatchlist={removeFromWatchlist}
-        />
-      </div>
-      </div>
-
-*/
-}
