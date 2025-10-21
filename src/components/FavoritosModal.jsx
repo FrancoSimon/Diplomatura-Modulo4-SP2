@@ -1,5 +1,7 @@
+//Modal de favoritos
 import { Button } from "./Button";
 
+// Modal que muestra los destinos guardados
 const FavoritosModal = ({
   isOpen,
   onClose,

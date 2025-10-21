@@ -1,3 +1,5 @@
+//Componente Raiz
+//se conecta todo
 import { useState } from "react";
 import { useWatchlist } from "./hooks/useWatchlist";
 import Header from "./components/Header";

@@ -1,3 +1,6 @@
+
+//Header con botón para abrir modal
+
 import Button from "./Button";
 
 export const Header = ({ onOpenModal }) => (

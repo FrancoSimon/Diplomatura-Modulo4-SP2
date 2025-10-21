@@ -1,3 +1,5 @@
+//Página principal
+
 import DestinosList from "../components/DestinosList";
 
 const Home = ({ addToWatchlist }) => {

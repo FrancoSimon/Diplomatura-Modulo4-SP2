@@ -1,5 +1,7 @@
+//Tarjeta individual
 import { Button } from "./Button";
 
+// Componente para mostrar cada destino
 export const DestinoCard = ({ destino, addToWatchlist }) => {
   return (
     <div className="bg-white max-w-xl mx-auto px-5 py-8 hover:shadow-2xl hover:scale-105 transition-transform rounded-3xl ">
